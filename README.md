@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=RodolfoBrandaoOficial" alt="Typing SVG" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+RodolfoBrandaoOficial;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+studying+Computer+Engineering+at+Univesp;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4700FF&random=false&width=435&lines=My+name+is+Rodolfo+Brand%C3%A3o%2C+I+am+31+years+old%2C+I+live+in+Limeira%2C+S%C3%A3o+Paulo+-+Brazil%2C+I+am+a+programmer+and+a+professional+in+cybersecurity+and+networking%2C+I+have+several+courses+and+I+also+have+a+degree+in+information+systems%2C+my+portfolio+is+https%3A%2F%2F+rodolfobrandao.dev.br.)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://github.com/RodolfoBrandaoOficial?tab=repositories">
