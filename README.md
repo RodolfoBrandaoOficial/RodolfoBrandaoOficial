@@ -3,10 +3,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=RodolfoBrandaoOficial" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4700FF&random=false&width=435&lines=Sou+um+Desenvolvedor+Full+Stack+com+profici%C3%AAncia+tanto+no+desenvolvimento+de+aplica%C3%A7%C3%B5es+quanto+na+engenharia+de+redes+de+computadores+e+ciberseguran%C3%A7a!" alt="Typing SVG" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4700FF&random=false&width=435&lines=My+name+is+Rodolfo+Brand%C3%A3o%2C+I+am+31+years+old%2C+I+live+in+Limeira%2C+S%C3%A3o+Paulo+-+Brazil%2C+I+am+a+programmer+and+a+professional+in+cybersecurity+and+networking%2C+I+have+several+courses+and+I+also+have+a+degree+in+information+systems%2C+my+portfolio+is+https%3A%2F%2F+rodolfobrandao.dev.br.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4700FF&random=false&width=435&lines=My+name+is+Rodolfo+Brand%C3%A3o%2C+I+am+31+years+old%2C+I+live+in+Limeira%2C+S%C3%A3o+Paulo+-+Brazil%2C+I+am+a+programmer+and+a+professional+in+cybersecurity+and+networking%2C+I+have+several+courses+and+I+also+have+a+degree+in+information+systems%2C+my+portfolio+is+https%3A%2F%2F+rodolfobrandao.dev.br.)](https://rodolfobrandao.com.br)
 
 <p align="center">
     <a href="https://github.com/RodolfoBrandaoOficial?tab=repositories">
