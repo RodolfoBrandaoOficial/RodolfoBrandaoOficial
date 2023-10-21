@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009dff&random=false&width=435&lines=Rodolfo+Brand%C3%A3o!++++Sou+um+Desenvolvedor+Full+Stack+com+profici%C3%AAncia+tanto+no+desenvolvimento+de+aplica%C3%C3%B5es+quanto+na+engenharia+de+redes+de+computadores+e+ciberseguran%C3%A7a!" alt="Typing SVG" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff33&random=false&width=435&lines=Meu+nome+%C3%A9+Rodolfo+Brand%C3%A3o%2C+tenho+31+anos%2C+moro+em+Limeira%2C+S%C3%A3o+Paulo%2C+Brasil%2C+sou+programador+e+profissional+em+seguran%C3%A7a+cibern%C3%A9tica+e+redes%2C+tenho+v%C3%A1rios+cursos+e+um+diploma+em+sistemas+de+informa%C3%A7%C3%A3o%2C+meu+portf%C3%B3lio+%C3%A9+https%3A%2F%2Frodolfobrandao.dev.br.)](https://rodolfobrandao.com.br)
+[![Typing SVG][(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff33&random=false&width=435&lines=Sou+programador+e+profissional+em+seguran%C3%A7a+cibern%C3%A9tica+e+redes%2C+tenho+v%C3%A1rios+cursos+e+um+diploma+em+sistemas+de+informa%C3%A7%C3%A3o%2C+meu+portf%C3%B3lio+%C3%A9+https%3A%2F%2Frodolfobrandao.dev.br)](https://rodolfobrandao.com.br)
 
 <p align="center">
     <a href="https://github.com/RodolfoBrandaoOficial?tab=repositories">
